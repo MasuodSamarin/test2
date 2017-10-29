@@ -49,6 +49,7 @@ typedef struct EQ_DBG_ONLINE
     int crc16;
 }eq_dbg_online_t;//total_size:
 
+void eq_set(void);
 void eq_init(void);
 void eq_enable();
 void eq_disable(void);

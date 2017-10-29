@@ -4940,7 +4940,7 @@
 
 1488534741 e:\work\tzb\ac690x_sdk_v2.1\include_lib\cpu\ac690x\hw_cpu.h
 
-1508253048 e:\work\tzb\ac690x_sdk_v2.1\apps_soundbox\include\sdk_cfg.h
+1509297860 e:\work\tzb\ac690x_sdk_v2.1\apps_soundbox\include\sdk_cfg.h
 	"includes.h"
 	"bluetooth/bluetooth_api.h"
 
@@ -5099,7 +5099,7 @@
 
 1488534741 e:\work\tzb\ac690x_sdk_v2.1\include_lib\dev_manage\ioctl.h
 
-1488534743 e:\work\tzb\ac690x_sdk_v2.1\apps_soundbox\include\cpu\ac690x\dac\eq.h
+1509296599 e:\work\tzb\ac690x_sdk_v2.1\apps_soundbox\include\cpu\ac690x\dac\eq.h
 	"typedef.h"
 
 1488534741 e:\work\tzb\ac690x_sdk_v2.1\include_lib\rtc\rtc_api.h
@@ -5150,7 +5150,7 @@
 
 1488534741 e:\work\tzb\ac690x_sdk_v2.1\include_lib\cpu\ac690x\uart_param.h
 
-1492080582 source:e:\work\tzb\ac690x_sdk_v2.1\apps_soundbox\bluetooth\btstack\bt_key_deal.c
+1509296682 source:e:\work\tzb\ac690x_sdk_v2.1\apps_soundbox\bluetooth\btstack\bt_key_deal.c
 	"bt_key_deal.h"
 	"rtos/os_api.h"
 	"common/msg.h"
@@ -5626,7 +5626,7 @@
 	"play_sel/play_sel.h"
 	"fm/fm_radio.h"
 
-1488534743 source:e:\work\tzb\ac690x_sdk_v2.1\apps_soundbox\cpu\ac690x\dac\eq.c
+1509297550 source:e:\work\tzb\ac690x_sdk_v2.1\apps_soundbox\cpu\ac690x\dac\eq.c
 	"sdk_cfg.h"
 	"dac/dac_api.h"
 	"dac/eq_api.h"

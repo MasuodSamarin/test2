@@ -113,6 +113,7 @@ void set_bt_eq_mode(int new_mode)
 		new_mode = 0;
 	}
 	user_val->bt_eq_mode = new_mode;
+	eq_set();
 	eq_mode_sw(new_mode);
 #endif
 }
